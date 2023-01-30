@@ -22,6 +22,11 @@ packages:
   - wireguard
   - luci-app-eqos
   - wireguard-tools
+  - luci-app-sqm
+  - luci-app-turboacc
+  - luci-app-uugamebooster
+  - luci-app-netdata
+  - luci-app-openclash
 
 
 
